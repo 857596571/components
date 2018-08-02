@@ -1,0 +1,1 @@
+navigator   h5调用摄像头功能
